@@ -7,7 +7,7 @@
 
 - ⭐ ESTUDIANTE ⭐ 
 - 📲 IEST. `JOSE MARIA ARGUEDAS`
-- 🎥 Te enseño comandos basicos junto al profesor `JOSE LUIS` [Aqui]("https://github.com/hackanonimous").
+- 🎥 Te enseño comandos basicos junto al profesor `JOSE LUIS` [Visita su repositorio](https://github.com/hackanonimous).
 - ✏️ Practicaremos con ejercisios interactivos.
   
 ## Temas a tratar 
